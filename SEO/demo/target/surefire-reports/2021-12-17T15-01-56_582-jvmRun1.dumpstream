@@ -1,0 +1,55 @@
+# Created at 2021-12-17T15:02:20.186
+Unexpected IOException with stream: [Thread-3] INFO com.codeborne.selenide.drivercommands.CloseDriverCommand - Close webdriver: 41 -> ChromeDriver: chrome on MAC (null)...
+
+
+# Created at 2021-12-17T15:02:20.187
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+
+# Created at 2021-12-17T15:02:20.188
+Unexpected IOException with stream: [Thread-5] INFO com.codeborne.selenide.drivercommands.CloseDriverCommand - Close webdriver: 47 -> ChromeDriver: chrome on MAC (bf7f5965deb0df3f9fb6dba4c1a7b24a)...
+
+
+# Created at 2021-12-17T15:02:20.188
+Unexpected IOException with stream: [Thread-1] INFO com.codeborne.selenide.impl.FileHelper - Deleted empty folder: /Users/user/Desktop/SEO/demo/build/downloads/1639742519650_1066_1
+
+
+# Created at 2021-12-17T15:02:20.189
+Unexpected IOException with stream: [Thread-6] INFO com.codeborne.selenide.impl.FileHelper - Deleted empty folder: /Users/user/Desktop/SEO/demo/build/downloads/1639742536834_1066_1
+
+
+# Created at 2021-12-17T15:02:20.189
+Unexpected IOException with stream: [Thread-4] INFO com.codeborne.selenide.impl.FileHelper - Deleted empty folder: /Users/user/Desktop/SEO/demo/build/downloads/1639742529680_1066_1
+
+
+# Created at 2021-12-17T15:02:20.189
+Unexpected IOException with stream: [Thread-3] INFO com.codeborne.selenide.drivercommands.CloseDriverCommand - Closed webdriver 41 in 2 ms
+
+
+# Created at 2021-12-17T15:02:20.396
+Unexpected IOException with stream: [main] WARN io.qameta.allure.selenide.AllureSelenide - Could not get screen shot
+
+
+# Created at 2021-12-17T15:02:20.397
+Unexpected IOException with stream: [Thread-5] ERROR com.codeborne.selenide.drivercommands.CloseDriverCommand - Cannot close browser: WebDriverException: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:16349
+
+
+# Created at 2021-12-17T15:02:20.397
+Unexpected IOException with stream: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'iMac27-SEO.local', ip: 'fe80:0:0:0:c6a:688b:3146:dc86%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '16.0.2'
+Driver info: driver.version: SelenideDriver
+
+# Created at 2021-12-17T15:02:20.397
+Unexpected IOException with stream: 
+
+
+# Created at 2021-12-17T15:02:20.397
+Unexpected IOException with stream: [Thread-5] INFO com.codeborne.selenide.drivercommands.CloseDriverCommand - Closed webdriver 47 in 210 ms
+
+
